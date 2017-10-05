@@ -51,6 +51,10 @@ Benito Almonte
 Libros
 # Auditoria de sistemas computacionales
 - Carlos Muñoz Razo
+- Equipo #4
+* Exposicion de este libro desde la pagina #95 hasta la pagina #126
+
+
 
 # Auditoria de informatica
 - Thomas Daula
