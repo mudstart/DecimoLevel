@@ -10,9 +10,11 @@ Benito Almonte
   * Donde
   * Cuando
   * Porque
+
 - Ejemplo de preguntas para la Entrevista
   * Expliquenos como funciona la aplicacion X
   * Cuales personas desarrollaron la aplicacion X
+
 - La entrevista debe ser dirigida por el auditor de mayor experiencia
 - Cuando se esta realizando no se debe escribir ni grabar
 - En una entrevista no se debe de usar lenguaje tecnico ni Palabras rebuscada
@@ -25,6 +27,7 @@ Benito Almonte
 - Las preguntas deben ser bien extructuradas de manera que no se respondan una con la otra
 
 # Cuestionario
+
 - Es otra de las tecnicas usadas por los auditores para recolectar informaciones
 - Las palabras usadas para preparar un cuentionario son Que, Donde, Cuando
 - Las preguntas del cuentionario deben responderse como si, no y respuesta corta
@@ -35,10 +38,18 @@ Benito Almonte
 
 # Observacion
 
--
+- La observacion es otra de las tecnicas usada por los auditores para recolectar informacione
+  por medio de la observacion podemos adquirir lo siguiente:
+
+  #1 Personas que se ausentan y dejan su equipo desbloqueado.
+  #2 Personas que ingieren alimentos dentro de su estacion de trabajo.
+  #3 Personas que fuman dentro de su area de trabajo.
+  #4 Comportamiento entre los compañeros de labores.
+  #5 Lineamiento de vestimentas.
 
 # Documentacion
 
+- 
 
 # Practica
 
