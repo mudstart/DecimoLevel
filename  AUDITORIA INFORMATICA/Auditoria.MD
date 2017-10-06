@@ -49,7 +49,14 @@ Benito Almonte
 
 # Documentacion
 
-- 
+- Estas son requeridas por los auditores para confirmar si los projectos, aplicaciones
+  modulos y programas fueron desarrollado acorde a los requerimientos de los clientes
+  y los usuarios asi como confirmar si se desarrollaron deacuerdo a las politicas
+  establecida para tales fines.
+
+  Dentro de esta podemos señalar
+
+  asi como las modificaciones a estoss
 
 # Practica
 
