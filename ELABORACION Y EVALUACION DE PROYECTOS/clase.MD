@@ -34,3 +34,13 @@ camprafael@yahoo.com
   son aquellas inversiones que se utilizan en proyectos opcionales donde al hacer
   una segunda inversion prodria probocar que el  mismo no arroje los resultados
   esperados
+
+# instrumento de recoleccion de informacion que se utiliza en la elaboracion de
+# un proyectos de investigacion
+
+- entrevista
+- cuestionario
+- observacion
+- encuesta
+- documentacion
+- experimentacion
