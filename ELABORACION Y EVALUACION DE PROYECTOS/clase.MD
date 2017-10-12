@@ -19,3 +19,18 @@ camprafael@yahoo.com
 * Implementacion Estrategica
 
 * Contro y Seguimiento
+
+# tipologia de inversiones en proyectos
+
+- inversiones dependiente
+  son aquellas inversiones que se utilizan en proyectos que requieren de una
+  segunda inversion para que el mismo arroje los resultados esperados.
+
+- inversiones independiente
+  son aquellas inversiones que se utilizan en projectos que no requieren de una
+  segunda inversion para que el mismo arroje los resultados esperados.
+
+- inversiones mutuamente excluyente
+  son aquellas inversiones que se utilizan en proyectos opcionales donde al hacer
+  una segunda inversion prodria probocar que el  mismo no arroje los resultados
+  esperados
