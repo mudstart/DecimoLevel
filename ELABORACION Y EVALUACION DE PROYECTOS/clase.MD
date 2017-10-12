@@ -42,5 +42,6 @@ camprafael@yahoo.com
 - cuestionario
 - observacion
 - encuesta
-- documentacion
 - experimentacion
+- inventario
+- muestreo
