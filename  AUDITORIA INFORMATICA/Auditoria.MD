@@ -58,6 +58,46 @@ Benito Almonte
 
   asi como las modificaciones a estoss
 
+# que documentos necesita el auditor
+
+-  toda la Documentacion en el desarrollo del proyecto en su capacidad
+- manuales de usuarios
+- copia de las autorizaciones de los pagos del proyecto
+- copia del cheque o numero de transferencia
+- quien hace la solicitud
+- copia del organigrama a evaluar
+- copia del memorando
+- copia de email
+- copia de reporte o listados
+
+
+# Funcion de control
+  - control disuasivo
+  - control preventivo
+  - control despectivo
+  - control reiterativo
+  - control correctivo
+  - control basico
+  - disiplina de control
+  - control interno
+  - necesidad de control interno
+  - control administrativo
+  - control organizacional
+  - sistema de control interno
+  - condiciones de control
+  - necesidad de control
+  - proceso de control
+  - alcance de control
+  - control tradicional
+  - evaluacion del riesgo
+  - complejidad del control
+  - control de aplicaciones
+  - objetivos del control
+  - ventajas del control
+  - desventajas del control
+  - elementos de control
+  - control manual
+
 # Practica
 
 - Control interno para procesamiento electronico de datos

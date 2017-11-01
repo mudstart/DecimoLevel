@@ -1,3 +1,15 @@
+# 8 y 19 de novienbre es semi presencial
+
+# entrega de proycto 13 de diciembre
+
+
+# requisistos para el proceso del nombre en la formulacion de un proyecto
+- este debe llevar un proceso (Que?)
+- debe llevar un objeto (que hace? para que?)
+- debe llevar una localizacion(lugar geografico)
+
+
+proyecto para la reorganizacion del transito en la avenida 27 de febrero santo domingo
 
 # Que es un projecto.
 - Es el el resultado de la camisacion de un canjunto de ideas focalizadas
@@ -45,3 +57,6 @@ camprafael@yahoo.com
 - experimentacion
 - inventario
 - muestreo
+
+
+# Guia
